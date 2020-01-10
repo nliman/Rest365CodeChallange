@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nliman\\source\\repos\\StringCalculator\\StringCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\nliman\\Documents\\GitHub\\Rest365CodeChallange\\StringCalculator\\StringCalculator.csproj",
       "projectName": "StringCalculator",
-      "projectPath": "C:\\Users\\nliman\\source\\repos\\StringCalculator\\StringCalculator.csproj",
+      "projectPath": "C:\\Users\\nliman\\Documents\\GitHub\\Rest365CodeChallange\\StringCalculator\\StringCalculator.csproj",
       "packagesPath": "C:\\Users\\nliman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nliman\\source\\repos\\StringCalculator\\obj\\",
+      "outputPath": "C:\\Users\\nliman\\Documents\\GitHub\\Rest365CodeChallange\\StringCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

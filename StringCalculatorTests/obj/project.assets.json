@@ -5829,11 +5829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nliman\\source\\repos\\StringCalculatorTests\\StringCalculatorTests.csproj",
+      "projectUniqueName": "C:\\Users\\nliman\\Documents\\GitHub\\Rest365CodeChallange\\StringCalculatorTests\\StringCalculatorTests.csproj",
       "projectName": "StringCalculatorTests",
-      "projectPath": "C:\\Users\\nliman\\source\\repos\\StringCalculatorTests\\StringCalculatorTests.csproj",
+      "projectPath": "C:\\Users\\nliman\\Documents\\GitHub\\Rest365CodeChallange\\StringCalculatorTests\\StringCalculatorTests.csproj",
       "packagesPath": "C:\\Users\\nliman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nliman\\source\\repos\\StringCalculatorTests\\obj\\",
+      "outputPath": "C:\\Users\\nliman\\Documents\\GitHub\\Rest365CodeChallange\\StringCalculatorTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5853,8 +5853,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\nliman\\source\\repos\\StringCalculator\\StringCalculator.csproj": {
-              "projectPath": "C:\\Users\\nliman\\source\\repos\\StringCalculator\\StringCalculator.csproj"
+            "C:\\Users\\nliman\\Documents\\GitHub\\Rest365CodeChallange\\StringCalculator\\StringCalculator.csproj": {
+              "projectPath": "C:\\Users\\nliman\\Documents\\GitHub\\Rest365CodeChallange\\StringCalculator\\StringCalculator.csproj"
             }
           }
         }
