@@ -1,0 +1,17 @@
+C:\Users\nliman\source\repos\StringCalculatorTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nliman\source\repos\StringCalculatorTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nliman\source\repos\StringCalculatorTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nliman\source\repos\StringCalculatorTests\bin\Debug\netcoreapp2.2\StringCalculatorTests.deps.json
+C:\Users\nliman\source\repos\StringCalculatorTests\bin\Debug\netcoreapp2.2\StringCalculatorTests.runtimeconfig.json
+C:\Users\nliman\source\repos\StringCalculatorTests\bin\Debug\netcoreapp2.2\StringCalculatorTests.runtimeconfig.dev.json
+C:\Users\nliman\source\repos\StringCalculatorTests\bin\Debug\netcoreapp2.2\StringCalculatorTests.dll
+C:\Users\nliman\source\repos\StringCalculatorTests\bin\Debug\netcoreapp2.2\StringCalculatorTests.pdb
+C:\Users\nliman\source\repos\StringCalculatorTests\bin\Debug\netcoreapp2.2\StringCalculator.dll
+C:\Users\nliman\source\repos\StringCalculatorTests\bin\Debug\netcoreapp2.2\StringCalculator.pdb
+C:\Users\nliman\source\repos\StringCalculatorTests\obj\Debug\netcoreapp2.2\StringCalculatorTests.csprojAssemblyReference.cache
+C:\Users\nliman\source\repos\StringCalculatorTests\obj\Debug\netcoreapp2.2\StringCalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\nliman\source\repos\StringCalculatorTests\obj\Debug\netcoreapp2.2\StringCalculatorTests.AssemblyInfoInputs.cache
+C:\Users\nliman\source\repos\StringCalculatorTests\obj\Debug\netcoreapp2.2\StringCalculatorTests.AssemblyInfo.cs
+C:\Users\nliman\source\repos\StringCalculatorTests\obj\Debug\netcoreapp2.2\StringCalculatorTests.csproj.CopyComplete
+C:\Users\nliman\source\repos\StringCalculatorTests\obj\Debug\netcoreapp2.2\StringCalculatorTests.dll
+C:\Users\nliman\source\repos\StringCalculatorTests\obj\Debug\netcoreapp2.2\StringCalculatorTests.pdb
